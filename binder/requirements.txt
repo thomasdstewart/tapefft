@@ -1,0 +1,4 @@
+jupyterlab_launcher
+numpy
+matplotlib
+scipy
